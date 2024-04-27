@@ -13,7 +13,7 @@ for i in range(t):
 
 print(fs)
 print(type(fs))
-8
+
 # Converting Into Tuple
 
 ft = tuple(fs)
